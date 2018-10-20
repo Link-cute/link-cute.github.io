@@ -3,13 +3,19 @@
   
     
     <entry>
-      <title>history</title>
+      <title>做题记录</title>
       <link href="/history/"/>
       <url>/history/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
+      
+        <tags>
+            
+            <tag> noip备战 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -18,7 +24,7 @@
       <link href="/before-noip/"/>
       <url>/before-noip/</url>
       
-        <content type="html"><![CDATA[<p>这大概是日记之类的东西……</p><p>打完第二场模拟赛，第一次A掉了T1，但教练还没公布名额分配的问题，只是先说了要停课……</p><p>希望能选上吧…</p><p>还有就是——开始努力吧……</p><p>（<a href="/history">做题记录</a>）</p>]]></content>
+        <content type="html"><![CDATA[<p>这大概是日记之类的东西……</p><p>打完第二场模拟赛，第一次A掉了T1，但教练还没公布名额分配的问题，只是先说了要停课……</p><p>希望能选上吧…</p><p>还有就是——开始努力吧……</p><p>（<a href="/post/history">做题记录</a>）</p>]]></content>
       
       
       
